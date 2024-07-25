@@ -9,7 +9,7 @@ const projectData = [
     title: "Medical Clinic Website",
     description: "This is a website created for a mock 'medical clinic' using PHP. The website provides users with all the necessary information about the clinic such as staff and the history of the clinic.",
     images: [
-      "/screenshots/clinicwebsite.png",
+      "./screenshots/clinicwebsite.png",
       "/screenshots/clinicwebsite2.png",
       "/screenshots/clinicwebsite3.png"
     ],
